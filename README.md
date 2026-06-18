@@ -100,7 +100,7 @@ override fun buildConfig() = AppConfig(
 
 ## Watch the RunTracker in Action
 
-▶️ **Demo video:** [Click here to watch the video](https://youtu.be/o6P7jhMq784)
+▶️ **Demo video:** [Click here to watch the video](https://youtube.com/shorts/C4vd481chXQ?feature=share)
 
 ---
 
