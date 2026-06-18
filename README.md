@@ -94,7 +94,7 @@ override fun buildConfig() = AppConfig(
 
 | Timer |
 |---|
-| <img src="Screenshots/recipes.jpg" width="260" alt="Timer"> |
+| <img src="Screenshots/Timer.jpeg" width="260" alt="Timer"> |
 
 ---
 
