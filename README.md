@@ -90,7 +90,7 @@ override fun buildConfig() = AppConfig(
 
 | Home | History | Goals |
 |---|---|---|
-| <img src="Screenshots/HomeScreen.jpeg" width="260" alt="Home"> | <img src="screenshots/HistoryScreen.jpeg" width="260" alt="History"> | <img src="screenshots/GoalScreen.jpeg" width="260" alt="Goals"> |
+| <img src="Screenshots/HomeScreen.jpeg" width="260" alt="Home"> | <img src="Screenshots/HistoryScreen.jpeg" width="260" alt="History"> | <img src="Screenshots/GoalScreen.jpeg" width="260" alt="Goals"> |
 
 | Timer |
 |---|
