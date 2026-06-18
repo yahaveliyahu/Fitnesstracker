@@ -94,7 +94,7 @@ override fun buildConfig() = AppConfig(
 
 | Timer |
 |---|
-| <img src="screenshots/recipes.jpg" width="260" alt="Recipes"> |
+| <img src="Screenshots/recipes.jpg" width="260" alt="Timer"> |
 
 ---
 
@@ -132,11 +132,11 @@ override fun buildConfig() = AppConfig(
 
 | Home | History | Goals |
 |---|---|---|
-| <img src="screenshots/login.jpg" width="260" alt="Login"> | <img src="screenshots/home.jpg" width="260" alt="Home"> | <img src="screenshots/match.jpg" width="260" alt="Match"> |
+| <img src="Screenshots/login.jpg" width="260" alt="Login"> | <img src="Screenshots/home.jpg" width="260" alt="Home"> | <img src="Screenshots/match.jpg" width="260" alt="Match"> |
 
 | Timer |
 |---|
-| <img src="screenshots/recipes.jpg" width="260" alt="Recipes"> |
+| <img src="Screenshots/recipes.jpg" width="260" alt="Recipes"> |
 
 ## Features
 
