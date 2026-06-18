@@ -148,7 +148,7 @@ override fun buildConfig() = AppConfig(
 
 ## Watch the CycleTracker in Action
 
-▶️ **Demo video:** [Click here to watch the video](https://youtu.be/o6P7jhMq784)
+▶️ **Demo video:** [Click here to watch the video](cycle.mp4)
 
 ---
 
