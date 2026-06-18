@@ -98,6 +98,12 @@ override fun buildConfig() = AppConfig(
 
 ---
 
+## Watch the RunTracker in Action
+
+▶️ **Demo video:** [Click here to watch the video](https://youtu.be/o6P7jhMq784)
+
+---
+
 ## :cycling — CycleTracker
 
 A cycling tracker app. Extends `BaseActivity` and provides a cycling-specific configuration.
@@ -137,6 +143,14 @@ override fun buildConfig() = AppConfig(
 | Timer |
 |---|
 | <img src="Screenshots/TimerCycle.jpeg" width="260" alt="Timer"> |
+
+  ---
+
+## Watch the CycleTracker in Action
+
+▶️ **Demo video:** [Click here to watch the video](https://youtu.be/o6P7jhMq784)
+
+---
 
 ## Features
 
