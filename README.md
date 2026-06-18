@@ -154,6 +154,8 @@ override fun buildConfig() = AppConfig(
 
 ---
 
-## Author
+## Credits
+
+Project by:
 
 Yahav Eliyahu
