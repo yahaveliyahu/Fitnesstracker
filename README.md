@@ -151,3 +151,9 @@ override fun buildConfig() = AppConfig(
 - Android 9.0 (API 28) or higher
 - Android Studio with AGP 8.9.2
 - Device with GPS and step detector sensor
+
+---
+
+## Author
+
+Yahav Eliyahu
