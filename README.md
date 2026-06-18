@@ -86,6 +86,18 @@ override fun buildConfig() = AppConfig(
 
 ---
 
+## 📸 Screenshots
+
+| Home | History | Goals |
+|---|---|---|
+| <img src="screenshots/login.jpg" width="260" alt="Login"> | <img src="screenshots/home.jpg" width="260" alt="Home"> | <img src="screenshots/match.jpg" width="260" alt="Match"> |
+
+| Timer |
+|---|
+| <img src="screenshots/recipes.jpg" width="260" alt="Recipes"> |
+
+---
+
 ## :cycling — CycleTracker
 
 A cycling tracker app. Extends `BaseActivity` and provides a cycling-specific configuration.
@@ -115,6 +127,16 @@ override fun buildConfig() = AppConfig(
 - `POST_NOTIFICATIONS`
 
 ---
+
+## 📸 Screenshots
+
+| Home | History | Goals |
+|---|---|---|
+| <img src="screenshots/login.jpg" width="260" alt="Login"> | <img src="screenshots/home.jpg" width="260" alt="Home"> | <img src="screenshots/match.jpg" width="260" alt="Match"> |
+
+| Timer |
+|---|
+| <img src="screenshots/recipes.jpg" width="260" alt="Recipes"> |
 
 ## Features
 
